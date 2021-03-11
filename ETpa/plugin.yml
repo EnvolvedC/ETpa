@@ -1,0 +1,9 @@
+name: ETpa
+main: etpa.envolved.com
+authors: [Envolved]
+version: 1.0
+commands:
+  tpa:
+  tpaceitar:
+  tpanegar:
+  tpacancelar:

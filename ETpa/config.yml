@@ -1,0 +1,29 @@
+## Tpa
+Utilize: '&cUtilize /tpa [jogador].'
+JogadorOffline: '&cEste jogador está offline ou não existe.'
+VoceMesmo: '&cVocê não pode teleportar a sí mesmo.'
+VoceJaEnviouPedido: '&cVocê já enviou um pedido de teleporte.'
+EnviouPedido: '&aVocê enviou um pedido de teleporte para &f{player}&a.'
+RecebeuPedido: '&eVocê recebeu um pedido de teleporte de &f{player}&e.'
+## TpaAceitar
+Utilize1: '&cUtilize /tpaceitar [jogador].'
+VoceMesmo1: '&cVocê não pode aceitar um pedido de teleporte de sí mesmo.'
+TpaAceito: '&aVocê aceitou o pedido de teleporte de &f{player}&a.'
+## TpaNegar
+Utilize2: '&cUtilize /tpanegar [jogador].'
+VoceMesmo2: '&cVocê não pode negar um pedido de teleporte de sí mesmo.'
+NaoTemConvite: '&cO jogador &f{player} &cnão pediu para teleportar até você.'
+NegouSeuPedido: '&cO jogador &f{player} &cnegou seu pedido de teleporte.'
+NegouUmPedido: '&cVocê negou o pedido de teleporte de &f{player}&c.'
+## TpaCancelar
+NadaParaCancelar: '&cVocê não tem pedidos de teleporte para cancelar.'
+## Permissão teleportar sem delay: "etpa.delay".
+TeleportandoComPerm: '&aTeleportando para o jogador &f{player}&a.'
+PedidoCancelado: '&cVocê cancelou o pedido de teleporte para &f{player}&c.'
+## Quando o jogador não tem a permissão (etpa.delay).
+Tempo: 3
+TeleportandoSemPerm: '&aTeleportando em &f{tempo} &asegundos.'
+## Informações de tempo de teleporte.
+TempoExpirar: 30
+PedidoExpirou: '&cO pedido de teleporte para &f{player} &cexpirou.'
+
